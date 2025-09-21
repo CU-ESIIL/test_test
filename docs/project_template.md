@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "OASIS: 3-Day Team Template"
+title: "Test Test: 3-Day Team Template"
 subtitle: "A friction-free guide for collaborative research sprints"
 hero_image: assets/template/hero.svg
 team_logo: assets/template/team-logo.svg
-contact_slack: "#oasis-project-room"
-contact_email: "team@example.org"
+contact_slack: "#test-test-project-room"
+contact_email: "test-test@example.org"
 repo_owner: "cu-esiil"
-repo_name: "Project_group_OASIS"
+repo_name: "test_test"
 edit_path: "docs/project_template.md"
 ---
 
