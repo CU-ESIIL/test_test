@@ -9,7 +9,7 @@ permalink: /instructions/day1/
 
 ## 1) Start with people
 - Names, roles, what each person wants to learn or contribute in 3 days.
-- Add your names to **[Team](https://cu-esiil.github.io/Project_group_OASIS/#team)** (top nav → Team). Edit the table, keep it simple.
+- Add your names to **[Team](https://cu-esiil.github.io/test_test/#team)** (top nav → Team). Edit the table, keep it simple.
 
 ## 2) Define your product, question(s) and hypotheses
 Open **Home** → edit `docs/index.md` → fill in:
@@ -42,9 +42,9 @@ Open **Home** → edit `docs/index.md` → fill in:
 ```bash
 # In your CyVerse terminal
 cd ~
-# Replace with your repo URL (green "Code" button → HTTPS)
-git clone https://github.com/ORG/REPO.git
-cd REPO
+# Clone this repository (swap to SSH if you prefer)
+git clone https://github.com/CU-ESIIL/test_test.git
+cd test_test
 ```
 
 **Make a tiny change and push it back:**

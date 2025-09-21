@@ -1,11 +1,11 @@
-site_name: "Project Title"
-site_description: 'Central resource for ESIIL project groups'
-site_author: Ty Tuff
-site_url: "https://OWNER.github.io/REPO/"
+site_name: "Test Test"
+site_description: 'Website and documentation for the Test Test project team'
+site_author: Test Test Team
+site_url: "https://cu-esiil.github.io/test_test/"
 
 # Repository
-repo_name: Project-group-home
-repo_url: https://github.com/CU-ESIIL/Project_group_oasis
+repo_name: CU-ESIIL/test_test
+repo_url: https://github.com/CU-ESIIL/test_test
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2024 University of Colorado Boulder'
@@ -23,9 +23,9 @@ nav:
       - Save to persistent storage: instructions/save-to-persistent-storage.md
       - RStudio Proxy Workaround: instructions/open-rstudio.md
   - Storage:
-      - Your code: https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/code
-      - Your documentation: https://github.com/CU-ESIIL/Project_group_OASIS/tree/main/documentation
-      - Your persistent storage: "https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/Group_1?type=folder&resourceId=1993057e-8e90-11f0-b0fa-90e2ba675364"
+      - Your code: https://github.com/CU-ESIIL/test_test/tree/main/code
+      - Your documentation: https://github.com/CU-ESIIL/test_test/tree/main/documentation
+      - Your persistent storage: "https://de.cyverse.org/data/ds/iplant/home/shared/esiil/Innovation_summit/test_test"
   - Orientation:
       - Summit slides: orientation/slides.md
       - ESIIL training: orientation/esiil_training.md
@@ -85,7 +85,7 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github
-    # link: https://github.com/cu-esiil/
+      link: https://github.com/CU-ESIIL/test_test
 
 extra_css:
   - stylesheets/extra.css
